@@ -1,1 +1,2 @@
 # World_Weather_Analysis
+### The purpose of this exercise is to create code for weather data and filter this data for weather preferences. From that information, we identified potential travels destinations and nearby hotels. Four cities were picked from this list and a travel itinerary was created using Google Maps Directions API. A route between these cities were created as well as a marker layer map.
