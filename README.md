@@ -1,7 +1,7 @@
 # World_Weather_Analysis
 
 ## Overview of Project
-Analysis, visualization, and statistical skills by retrieving and analyzing weather data for a hypothetical travel company. 
+To use analysis, visualization, and statistical skills by retrieving and analyzing weather data, for a hypothetical travel company. 
 
 ## Purpose
 
